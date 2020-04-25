@@ -12,4 +12,4 @@ def find_longest_dup(s):
     return max(result, key=len) if result else ""
 
 
-print(find_longest_dup("banananabanana"))
+print(find_longest_dup("tesc"))
